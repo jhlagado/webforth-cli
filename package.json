@@ -2,7 +2,7 @@
   "name": "@jhlagado/webforth-cli",
   "version": "1.0.0",
   "description": "A command line interface to webForth",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": "https://github.com/jhlagado/webforth-cli",
   "author": "John Hardy",
   "license": "MIT",
